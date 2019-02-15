@@ -17,7 +17,7 @@ The purpose of the projects were to be trained in research skills through studyi
 For one semester, we explored the folding geometry of Platonic solids and of oil droplets through a collaboration with a physics lab. For another semester, we explored ribbonization phenomena through studying the paper titled Cartan Ribbonization of Surfaces and a Topological Inspection. My project was to understand how the scholars achieved ribbonization of a torus with the correct cut-off width functions. I investigated the geometry of the Cartan planar ribbons used to construct a torus and managed to replicate its results empirically for the lab. 
 
 ## Hackathon Project: BlueFruit, Fall 2015
-###[DevPost Documentation](https://devpost.com/software/bluefruit) 
+[DevPost Documentation](https://devpost.com/software/bluefruit) 
 
 This project was inspired by civic art projects. It was eventually launched as gallery+ TXT with 10 items at the Yale Art Gallery in Spring 2016. gallery+ TXT was prototyped as "BlueFruit" at Unhackathon 2015 with John Tambunting, Cameron Yick, Victor Zhen, and Mohammad Islam. Twilio Devangelist Rob Spectre helped us with the Twilio boilerplate and mentorship! 
 
