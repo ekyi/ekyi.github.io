@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+### Project: BlueFruit 
 
-You can use the [editor on GitHub](https://github.com/ekyi/ekyi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[DevPost Documentation](https://devpost.com/software/bluefruit)
 
-### Markdown
+This project was inspired by civic art projects. It was eventually launched as gallery+ TXT with 10 items at the Yale Art Gallery in Spring 2016. gallery+ TXT was prototyped as "BlueFruit" at Unhackathon 2015 with John Tambunting, Cameron Yick, Victor Zhen, and Mohammad Islam. Twilio Devangelist Rob Spectre helped us with the Twilio boilerplate and mentorship! We wanted to explore how communicating directly with art could affect people's experiences in the museum. gallery+ TXT was an app built using the Python Flask Framework, Google Spreadsheets, and the Twilio API. I learnt how to work with JSON-encoded data for the first time through involvement in this project. [Data from the first opening is here.](https://public.tableau.com/profile/cameron.yick#!/vizhome/textplus_analysis/TextPlusStory)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ekyi/ekyi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
