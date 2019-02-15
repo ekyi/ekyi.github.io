@@ -1,4 +1,4 @@
-## Some independent projects I have done in the past.
+## PROJECTS
 
 ## Independent Project: Human-Computer Interaction - Emotion, Spring 2019
 ### Supervised by Professor Jordan Crouser, Smith College
