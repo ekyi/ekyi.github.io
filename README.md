@@ -1,3 +1,5 @@
+## Some independent projects I have done in the past.
+
 ## Independent Project: Human-Computer Interaction - Emotion, Spring 2019
 ### Supervised by Professor Jordan Crouser, Smith College
 Studying papers in the field of human-computer interaction, specifically those that focus on how to advance wellbeing through technology. Reading papers exploring the interaction between machines and emotions, and about studies to augment wellbeing through wearables. For example, studies of note include how technology has helped people with special needs communicate and regulate emotion better. I am interested in how computers can be used improve the human experience.
